@@ -1,0 +1,48 @@
+/*a:hover{
+    text-decoration: underline;/** Quando o cursor do moude passar sobre o link ele fcará sublinhado **/
+
+/*#topo{
+    
+    width: 100%;
+    border-bottom: 1px solid #f0f0f0; 
+    float: left
+    
+}/*
+
+.conteudo{
+    
+    width: 960px;
+    margin: 0auto
+    
+}*/
+
+/*.topo-logo{
+    
+    width: 240px;
+    float: left;
+    
+}
+
+.menu-topo ul{
+    list-style:  none
+    
+}
+
+.menu-topo ul li{/*
+    float: left;
+    margin: 10px 100px 5px 20px; 
+    /** Margens: Superior, Direita, Inferior, Esquerda **/
+    
+/*}
+
+.menu-topo ul li a{
+   padding: 10px;
+    display: block;    /* Faz com que o botão se torne um link e não somente a palavra
+    
+
+}/*
+
+.topo-logo img{
+    width: 200px;
+    
+}*/
